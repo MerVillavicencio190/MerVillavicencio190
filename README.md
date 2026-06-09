@@ -14,7 +14,7 @@ My favorite tools are Procreate and Notion.
 - Math modeling.
 - Data science.
 - Competitive programming.
-- Marine biology
+- Marine biology.
 
 One of my main goals is to develop well-organized repositories that demonstrate my knowledge across different fields.
 
