@@ -16,7 +16,7 @@ My favorite tools are Procreate and Notion.
 - Competitive programming.
 - Marine biology.
 
-One of my main goals is to develop well-organized repositories that demonstrate my knowledge across different fields.
+One of my main goals is to develop well-organized repositories that demonstrate my knowledge across different fields... like a spell book.
 
 <!--
 **MerVillavicencio190/MerVillavicencio190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
