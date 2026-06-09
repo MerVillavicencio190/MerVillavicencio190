@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there 🪼🌊
 
 I'm **Fer Villavicencio** an Applied Mathematician from México.
+
 I enjoy coding in Python.
+
 I love learning new algorithms, data structures and test my knowledge in CodeForces.
 
 My favorite repository is the [Rock-Paper-Scissors project](https://github.com/MerVillavicencio190/Rock-Paper-Scissors-project) from a Data Science Diploma.
@@ -12,8 +14,9 @@ One of my favorite tools is procreate and notion.
 - Math modeling.
 - Data sicence.
 - Competitive programming.
+- Marine biology
 
-
+One of my main goals is to develop well-organized repositories that demonstrate my knowledge across different fields.
 
 <!--
 **MerVillavicencio190/MerVillavicencio190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
