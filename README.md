@@ -12,7 +12,7 @@ My favorite tools are Procreate and Notion.
 
 ### I'm interested in:
 - Math modeling.
-- Data sicence.
+- Data science.
 - Competitive programming.
 - Marine biology
 
