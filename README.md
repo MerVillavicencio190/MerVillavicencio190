@@ -8,7 +8,7 @@ I love learning new algorithms, data structures and test my knowledge in CodeFor
 
 My favorite repository is the [Rock-Paper-Scissors project](https://github.com/MerVillavicencio190/Rock-Paper-Scissors-project) from a Data Science Diploma.
 
-One of my favorite tools is procreate and notion.
+My favorite tools are Procreate and Notion.
 
 ### I'm interested in:
 - Math modeling.
